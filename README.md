@@ -40,6 +40,7 @@ Discord: tichotm
    - Install the **MultiAddonManager** plugin on your server. This plugin will allow you to easily manage and update multiple addons at once, simplifying server management and ensuring that all necessary files are always up to date.
 5. **Releasing the Workshop Addon:**
    - After officially releasing your workshop addon, you can start using the new menu that you customized in the radiopanel. Make sure that all players have the addon installed to ensure a consistent gaming experience.
+
 **"Don’t feel like creating a workshop addon? Here’s a list of already modified Radiopanels:"**
 - https://steamcommunity.com/sharedfiles/filedetails/?id=3297599561
 - https://steamcommunity.com/sharedfiles/filedetails/?id=3285412196
