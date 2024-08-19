@@ -5,7 +5,7 @@
         "menu1"
         {
             "hotkey"    "0"
-            "title" "EXAMPLE MENU [1]"
+            "title" "MENU [1]"
             "timeout"   "9999999"
 
             "Commands"
@@ -14,28 +14,28 @@
                 {
                     "hotkey"    "1"
                     "label" "Checkpoint"
-                    "cmd"   "css_cp; radio"
+                    "cmd"   "kz_cp; radio"
                 }
 
                 "tp"
                 {
                     "hotkey"    "2"
                     "label" "Teleport"
-                    "cmd"   "css_tp; radio"
+                    "cmd"   "kz_tp; radio"
                 }
 
                 "pause"
                 {
                     "hotkey"    "3"
                     "label" "Pause"
-                    "cmd"   "css_timer; radio"
+                    "cmd"   "kz_pause; radio"
                 }
 
                 "r"
                 {
                     "hotkey"    "4"
                     "label" "Respawn"
-                    "cmd"   "css_r; radio"
+                    "cmd"   "kz_r; radio"
                 }
             }
         }
@@ -43,7 +43,7 @@
         "menu2"
         {
             "hotkey"    "1"
-            "title" "EXAMPLE MENU [2]"
+            "title" "MENU [2]"
             "timeout"   "9999999"
 
             "Commands"
@@ -51,44 +51,58 @@
                 "cp"
                 {
                     "hotkey"    "1"
-                    "label" "Checkpoint"
-                    "cmd"   "css_cp; radio1"
+                    "label" "Set Checkpoint"
+                    "cmd"   "kz_cp; radio1"
                 }
 
                 "tp"
                 {
                     "hotkey"    "2"
-                    "label" "Teleport"
-                    "cmd"   "css_tp; radio1"
+                    "label" "Load Checkpoint"
+                    "cmd"   "kz_tp; radio1"
                 }
 
                 "prevcp"
                 {
                     "hotkey"    "3"
-                    "label" "Teleport to Prev"
-                    "cmd"   "css_prevcp; radio1"
+                    "label" "Teleport to Prev Checkpoint    "
+                    "cmd"   "kz_prevcp; radio1"
                 }
 
 
                 "nextcp"
                 {
                     "hotkey"    "4"
-                    "label" "Teleport to Next"
-                    "cmd"   "css_nextcp; radio1"
+                    "label" "Teleport to Next Checkpoint    "
+                    "cmd"   "kz_nextcp; radio1"
+                }
+
+                "undo"
+                {
+                    "hotkey"    "5"
+                    "label" "Undo Teleport"
+                    "cmd"   "kz_undo; radio1"
                 }
 
                 "pause"
                 {
-                    "hotkey"    "5"
-                    "label" "Pause"
-                    "cmd"   "css_timer; radio1"
+                    "hotkey"    "6"
+                    "label" "Toggle Pause Timer"
+                    "cmd"   "kz_pause; radio1"
                 }
 
                 "r"
                 {
-                    "hotkey"    "6"
+                    "hotkey"    "7"
                     "label" "Respawn"
-                    "cmd"   "css_r; radio1"
+                    "cmd"   "kz_r; radio1"
+                }
+
+                "noclip"
+                {
+                    "hotkey"    "8"
+                    "label" "Toggle Noclip"
+                    "cmd"   "kz_noclip; radio1"
                 }
             }
         }
