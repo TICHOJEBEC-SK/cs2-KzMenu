@@ -25,7 +25,7 @@ Discord: tichotm
 **Required for functionality plugin**
 - [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) 
 - [MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)
-- [SharpTimer by Dea](https://github.com/Letaryat/poor-sharptimer)
+- [cs2kz](https://github.com/KZGlobalTeam/cs2kz-metamod)
 - [Radiopanel Tutorial](https://steamcommunity.com/sharedfiles/filedetails/?l=russian&id=187002729)
 
 **How to install?**
