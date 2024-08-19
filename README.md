@@ -26,6 +26,7 @@ Discord: tichotm
 - [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) 
 - [MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager)
 - [SharpTimer by Dea](https://github.com/Letaryat/poor-sharptimer)
+- [Radiopanel Tutorial](https://steamcommunity.com/sharedfiles/filedetails/?l=russian&id=187002729)
 
 **How to install?**
 1. **Customizing the Radiopanel:**
